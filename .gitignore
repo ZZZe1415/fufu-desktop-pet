@@ -1,0 +1,7 @@
+# Runtime state created by the local fallback transport.
+fufu-state.json
+
+# Windows and PowerShell local artifacts.
+Thumbs.db
+*.log
+
